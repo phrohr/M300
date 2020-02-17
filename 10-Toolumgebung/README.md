@@ -288,7 +288,7 @@ Für das weitere Vorgehen wird eine System-Abbild-Datei benötigt. Dazu laden wi
    *  Typ:            `Linux`
    *  Version:        `Ubuntu (64-bit)`
    *  Speichergrösse: `2048 MB`
-   *  Platte:         `[X] Festplatte erzeugen`
+   *  IDE-Platte:         `[X] Festplatte erzeugen`
 4. Auf `Erzeugen` klicken
 5. Weiteres Fenster öffnet sich, folgende Informationen eintragen:
    *  Dateipfad:                       standard
@@ -446,7 +446,7 @@ Für die Einrichtung muss man sich nach den nachfolgenden Anweisungen orientiere
 
 ### Software herunterladen & installieren
 ***
-1. Unter [dieser Webseite](https://code.visualstudio.com/"visualstudio.com") lässt sich der Installer (Version 1.26.1) herunterladen.
+1. Unter [dieser Webseite](https://code.visualstudio.com/) lässt sich der Installer (Version 1.26.1) herunterladen.
 2. Auf "Download for Mac" klicken und warten, bis das Fenster zum Herunterladen erscheint. Anschliessend den Download des Installers starten
 3. Die Installation erfolgt auch hier GUI-basiert. Wiederum aber Standard (ohne spezielle Anpassungen), sodass an dieser Stelle auf eine Erklärung ebenfalls verzichtet wird.
 4. Sobald der Vorgang abgeschlossen wurde, kann mit dem Herunterladen der ISO-Datei und der VM-Erstellung fortgefahren werden.
